@@ -15,5 +15,4 @@ $user_id="xxxxxxxxxxxxxxxxxxxxxx";
 $invite_code="xxxxxxxxxxxxxx";
 $Bearer="xxxxxxxxxxxxxxxxxxxxxxxxxx";
 
-?>
-H
+?>php
